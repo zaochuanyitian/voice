@@ -240,3 +240,4 @@ if let voice = VoiceMarker.parse(finalText), !voice.transcript.isEmpty {
 代码按根目录的 LICENSE 走（非商业使用）。里面没有任何字体、图标或音频素材：
 喇叭和波形是代码画出来的，取消/时钟两个图标用的是 SF Symbols（系统自带，跟着 Apple 的条款）。
 `edge-tts` 是第三方项目，走它自己的许可；ElevenLabs 是付费服务，用之前看它的条款。
+禁二传二改，模仿表明来源，以上为小猫和Claude共同编辑
